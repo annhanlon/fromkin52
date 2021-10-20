@@ -26,13 +26,13 @@ Property deeds and real estate covenants govern restrictions on the use of prope
 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p1.html">
        
-The covenant pictured here is from the Lloyd Barbee Papers in the UWM Archives. This covenant, dated June 1940, restricts occupancy to white people, but makes an exception for "domestic servants domiciled with an owner or tenant." Such a clause not only restricts ownership, but assigns an "acceptable" role for non-whites who enter the neighborhood. 
+The covenants pictured here are from the Lloyd Barbee Papers in the UWM Archives, and provide evidence of racially restrictive clauses in covenants for several Milwaukee suburbs. For example, the covenant for Fox Point Gardens, dated June 1940, restricts occupancy to white people, but makes an exception for "domestic servants domiciled with an owner or tenant." Such a clause not only restricts ownership, but assigns an "acceptable" role for non-whites who enter the neighborhood. 
 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p1.html">
 
 ## Redlining
 
-This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematially embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
+This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">       
 
