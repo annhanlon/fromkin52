@@ -36,6 +36,12 @@ This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a fede
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">       
 
+## Resistance
+
+Civil rights marches, Vel Philips... 
+<param ve-image 
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">  
+
 ## Black residential segregration - 2000 census
 
 Map plotting black residential segregation according to data from the 2000 United States census.
