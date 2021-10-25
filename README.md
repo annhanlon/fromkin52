@@ -48,8 +48,11 @@ Civil rights marches, Vel Philips...
 ## Black residential segregration - 2000 census
 
 Map plotting black residential segregation according to data from the 2000 United States census.
-<param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4a/2000census-_Black_Residential_Segregation.JPG">
+       <param ve-image 
+       label="Black Residential Segregation: Milwaukee, 2000" 
+       description="map visualizing segregation in Milwaukee, Wisconsin based on 2000 census" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/2000census-_Black_Residential_Segregation.JPG">
 
 # References
 
