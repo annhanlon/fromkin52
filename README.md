@@ -30,7 +30,7 @@ The covenants pictured here are from the Lloyd Barbee Papers in the UWM Archives
 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p1.html">
 
-This 1927 covenant includes similar language for the Hauser Homes subdivision in Milwaukee County. 
+This 1927 covenant - with amendments added in 1945 -  includes similar language for the Hauser Homes subdivision in Milwaukee County. Language in the covenants states that restrictions outlined here "shall be in force and effect until the first day of January 1977."
 <param ve-iframe src=https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p4.html">
 
 ## Redlining
