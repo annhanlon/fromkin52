@@ -30,6 +30,9 @@ The covenants pictured here are from the Lloyd Barbee Papers in the UWM Archives
 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p1.html">
 
+This 1927 covenant includes similar language for the Hauser Homes subdivision in Milwaukee County. 
+<param ve-iframe src=https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p4.html">
+
 ## Redlining
 
 This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
