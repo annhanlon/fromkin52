@@ -49,7 +49,7 @@ The UWM Libraries [March on Milwaukee](https://uwm.edu/marchonmilwaukee/) digita
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/668/manifest.json">  
        
 Vel Phillips worked especially through legislative means to pass a fair housing ordinance. But she also marched with the NAACP Youth Council. In 1962, she introduced the Phillips Housing Ordinance–a bill that outlawed housing discrimination–to her peers in the Common Council. The bill, however, was defeated 18-1 with only her vote in favor. Between the years of 1963 and 1967, Phillips would reintroduce the fair housing bill three additional times, only to have it defeated each time. That year - 1967 - the NAACP Youth Council organized the 200-nights of freedom marches to protest the unfair housing policies that prevented Black people from buying homes and securing mortgages in many areas of the city and Milwaukee suburbs.[^2]
-<param ve-image 
+<param ve-image region="-578,77,4130,3429"
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/2345/manifest.json"> 
        
 On August 28, 1967 at least 200 NAACP Youth Council members marched across the 16th Street Bridge to the Kosciuszko Park on the city's south side. A violent crowd met them there, throwing rocks and bottles and displaying hateful signs. This action was the first of 200 nights of marches. 
