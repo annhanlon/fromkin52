@@ -39,9 +39,13 @@ This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a fede
 
 ## Resistance
 
-The UWM Libraries [March on Milwaukee](https://uwm.edu/marchonmilwaukee/) digital collection documents resistance to unfair housing policies. 
+The UWM Libraries [March on Milwaukee](https://uwm.edu/marchonmilwaukee/) digital collection documents resistance to unfair housing policies. In particular in the 1960s, and with specific actions - including a 200-night march - community members waged protests, boycotts, and legislative battles against segregation and discriminatory practices in housing, as well as in schools and social clubs. 
 <param ve-image 
-       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/666/manifest.json">  
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/668/manifest.json">  
+       
+Vel Phillips worked especially through legislative means to pass a fair housing ordinance. But she also marched with the NAACP Youth Council. In 1962, she introduced the Phillips Housing Ordinance–a bill that outlawed housing discrimination–to her peers in the Common Council. The bill, however, was defeated 18-1 with only her vote in favor. Between the years of 1963 and 1967, Phillips would reintroduce the fair housing bill three additional times, only to have it defeated each time. That year - 1967 - the NAACP Youth Council organized the 200-nights of freedom marches to protest the unfair housing policies that prevented Black people from buying homes and securing mortgages in many areas of the city and Milwaukee suburbs.[^2]
+<param ve-image 
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/2345/manifest.json"> 
 
 ## Black residential segregration - 2000 census
 
@@ -55,5 +59,6 @@ Map plotting black residential segregation according to data from the 2000 Unite
 # References
 
 [^1]: [What are Covenants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
+[^2]: [March on Milwaukee Keywords: Vel Phillips](https://uwm.edu/marchonmilwaukee/keyterms/phillips-vel/)
 
-Links [March on Milwaukee](https://uwm.edu/marchonmilwaukee/)
+
