@@ -53,7 +53,7 @@ Vel Phillips worked especially through legislative means to pass a fair housing 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/2345/manifest.json"> 
        
 On August 28, 1967 at least 200 NAACP Youth Council members marched across the 16th Street Bridge to the Kosciuszko Park on the city's south side. A violent crowd met them there, throwing rocks and bottles and displaying hateful signs. This action was the first of 200 nights of marches. 
-<param ve-image 
+<param ve-image region="-1064,-210,5320,4417"
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/666/manifest.json"> 
 
 
