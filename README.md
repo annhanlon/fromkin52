@@ -31,7 +31,7 @@ This 1927 covenant - with amendments added in 1945 -  includes similar language 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p4.html">
 
 This 1929 covenant from the Armory Subdivision in Shorewood restricts any activity to persons of "the white race." These sorts of restrictions were legal in Wisconsin until the passage of the Civil Rights Act in 1968.
-<param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p6.html">
+<param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p5.html">
 
 ## Redlining
 
