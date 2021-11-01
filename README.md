@@ -37,7 +37,10 @@ This 1929 covenant from the Armory Subdivision in Shorewood restricts any activi
 
 This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
 <param ve-image 
-       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">       
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">   
+       
+The blue and green sections are designated first and second - or higher grade. Yellow and red are areas deemed lower grade and risly for investment. Downer College - what is nw UWM - can be seen in a blue section of the map. 
+<param ve-image region="7094,5087,1947,1580" manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">
 
 ## Resistance
 
