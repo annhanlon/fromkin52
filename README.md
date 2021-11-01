@@ -39,7 +39,7 @@ This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a fede
 
 ## Resistance
 
-Civil rights marches, Vel Philips... 
+The UWM Libraries [March on Milwaukee](https://uwm.edu/marchonmilwaukee/) digital collection documents resistance to unfair housing policies. 
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/666/manifest.json">  
 
