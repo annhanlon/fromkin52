@@ -15,7 +15,7 @@
 <param ve-entity eid="Q186356"> <!-- New Deal -->
 
 
-This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role of racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
+This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/fromkin/237/manifest.json">
 
@@ -29,6 +29,9 @@ The covenants pictured here are from the Lloyd Barbee Papers in the UWM Archives
 
 This 1927 covenant - with amendments added in 1945 -  includes similar language for the Hauser Homes subdivision in Milwaukee County. Language in the covenants states that restrictions outlined here "shall be in force and effect until the first day of January 1977."
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p4.html">
+
+This 1929 covenant from the Armory Subdivision in Shorewood restricts any activity to persons of "the white race." These sorts of restrictions were legal in Wisconsin until the passage of the Civil Rights Act in 1968.
+<param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p6.html">
 
 ## Redlining
 
