@@ -53,14 +53,7 @@ On August 28, 1967 at least 200 NAACP Youth Council members marched across the 1
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/666/manifest.json"> 
 
-## Black residential segregration - 2000 census
 
-Map plotting black residential segregation according to data from the 2000 United States census.
-       <param ve-image 
-       label="Black Residential Segregation: Milwaukee, 2000" 
-       description="map visualizing segregation in Milwaukee, Wisconsin based on 2000 census" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/2000census-_Black_Residential_Segregation.JPG">
 
 # References
 
