@@ -3,7 +3,7 @@
 <param ve-config 
        title="Mapping Racism and Resistance: A digital exhibit to accompany the 52nd Annual Morris Fromkin Memorial Lecture"
        author="UWM Libraries"
-       banner="https://uwm.edu/libraries/wp-content/uploads/sites/59/2021/11/jbmurdoch_2007_medium.jpg" 
+       banner="https://uwm.edu/libraries/wp-content/uploads/sites/59/2021/11/mke-polonia_31805_full-scaled.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
