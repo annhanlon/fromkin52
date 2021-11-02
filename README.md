@@ -35,7 +35,7 @@ This 1929 covenant from the Armory Subdivision in Shorewood restricts any activi
 
 ## Redlining
 
-This 1938 map of Milwaukee was created by Home Owners' Loan Corporation (HOLC) - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. The HOLC created residential security maps that designated neighborhoods accroding to different grades meant to signify investment and security risk. Neighborhoods that received the lowest grade were shaded in red, or "redlined." These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed risky.[^2]
+This 1938 map of Milwaukee was created by Home Owners' Loan Corporation (HOLC) - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. The HOLC created residential security maps that designated neighborhoods according to different grades meant to signify investment and security risk. Neighborhoods that received the lowest grade were shaded in red, or "redlined." These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed risky.[^2]
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">   
        
