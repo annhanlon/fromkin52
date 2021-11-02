@@ -35,7 +35,7 @@ This 1929 covenant from the Armory Subdivision in Shorewood restricts any activi
 
 ## Redlining
 
-This 1938 map of Milwaukee was created by Home Owners' Loan Corporation - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. Neighborhoods were designated by different grades meant to signify investment risk. These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed low ("third" or "fourth") grade. 
+This 1938 map of Milwaukee was created by Home Owners' Loan Corporation (HOLC) - a federal agency created as part of the New Deal to help stabilize the home mortgage market. But it also introduced the concept of redlining. The HOLC created residential security maps that designated neighborhoods accroding to different grades meant to signify investment and security risk. Neighborhoods that received the lowest grade were shaded in red, or "redlined." These grades effectively outlined the racial contours of the city and systematically embedded economic disadvantages by making it difficult or impossible to secure home loans in areas deemed risky.[^2]
 <param ve-image 
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agdm/3028/manifest.json">   
        
@@ -48,7 +48,7 @@ The UWM Libraries [March on Milwaukee](https://uwm.edu/marchonmilwaukee/) digita
 <param ve-image region="-1057,-166,5285,4388"
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/668/manifest.json">  
        
-Vel Phillips worked especially through legislative means to pass a fair housing ordinance. But she also marched with the NAACP Youth Council. In 1962, she introduced the Phillips Housing Ordinance–a bill that outlawed housing discrimination–to her peers in the Common Council. The bill, however, was defeated 18-1 with only her vote in favor. Between the years of 1963 and 1967, Phillips would reintroduce the fair housing bill three additional times, only to have it defeated each time. That year - 1967 - the NAACP Youth Council organized the 200-nights of freedom marches to protest the unfair housing policies that prevented Black people from buying homes and securing mortgages in many areas of the city and Milwaukee suburbs.[^2]
+Vel Phillips worked especially through legislative means to pass a fair housing ordinance. But she also marched with the NAACP Youth Council. In 1962, she introduced the Phillips Housing Ordinance–a bill that outlawed housing discrimination–to her peers in the Common Council. The bill, however, was defeated 18-1 with only her vote in favor. Between the years of 1963 and 1967, Phillips would reintroduce the fair housing bill three additional times, only to have it defeated each time. That year - 1967 - the NAACP Youth Council organized the 200-nights of freedom marches to protest the unfair housing policies that prevented Black people from buying homes and securing mortgages in many areas of the city and Milwaukee suburbs.[^3]
 <param ve-image region="-578,77,4130,3429"
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/2345/manifest.json"> 
        
@@ -61,6 +61,7 @@ On August 28, 1967 at least 200 NAACP Youth Council members marched across the 1
 # References
 
 [^1]: [What are Covenants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
-[^2]: [March on Milwaukee Keywords: Vel Phillips](https://uwm.edu/marchonmilwaukee/keyterms/phillips-vel/)
+[^2}: [HOLC "Redlining" Maps: The Persistent Structure of Segregation and Economic Inequality](https://ncrc.org/holc/)
+[^3]: [March on Milwaukee Keywords: Vel Phillips](https://uwm.edu/marchonmilwaukee/keyterms/phillips-vel/)
 
 
