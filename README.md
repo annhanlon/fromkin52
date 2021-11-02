@@ -61,7 +61,7 @@ On August 28, 1967 at least 200 NAACP Youth Council members marched across the 1
 # References
 
 [^1]: [What are Covenants? University of Minnesota: Mapping Prejudice](https://mappingprejudice.umn.edu/what-are-covenants/)
-[^2}: [HOLC "Redlining" Maps: The Persistent Structure of Segregation and Economic Inequality](https://ncrc.org/holc/)
+[^2]: [HOLC "Redlining" Maps: The Persistent Structure of Segregation and Economic Inequality](https://ncrc.org/holc/)
 [^3]: [March on Milwaukee Keywords: Vel Phillips](https://uwm.edu/marchonmilwaukee/keyterms/phillips-vel/)
 
 
