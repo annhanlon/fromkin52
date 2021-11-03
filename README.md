@@ -56,7 +56,10 @@ On August 28, 1967 at least 200 NAACP Youth Council members marched across the 1
 <param ve-image region="-1064,-210,5320,4417"
        manifest="https://cdm17272.contentdm.oclc.org/iiif/info/march/666/manifest.json"> 
 
-In 1968, the Civil Rights Act (under Title VIII) banned racially restrictive housing covenants and other forms of housing discrimination.[^5] 
+In 1968, the Civil Rights Act (under Title VIII) banned racially restrictive housing covenants and other forms of housing discrimination.[^5] But the damage done remains, reflected in the persistence of segregation and unequal resources in Milwaukee and other cities. Please join us on Thursday at 4:00 p.m. on the 4th floor of the Golda Meir Library (or virtually) to learn more about this history of both racism and resistance in Milwaukee.
+<param ve-image region="2,3317,3183,1562"
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/fromkin/237/manifest.json">
+
 
 # References
 
