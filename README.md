@@ -27,7 +27,7 @@ Property deeds and real estate covenants govern restrictions on the use of prope
 The covenants pictured here are from the Lloyd Barbee Papers in the UWM Archives, and provide evidence of racially restrictive clauses in covenants for several Milwaukee suburbs. For example, the covenant for Fox Point Gardens, dated June 1940, restricts occupancy to white people, but makes an exception for "domestic servants domiciled with an owner or tenant." Such a clause not only restricts ownership, but assigns an "acceptable" role for non-whites who enter the neighborhood. 
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p1.html">
 
-This 1927 covenant - with amendments added in 1945 -  includes similar language for the Hauser Homes subdivision in Milwaukee County. Language in the covenants states that restrictions outlined here "shall be in force and effect until the first day of January 1977."
+This 1927 covenant - with amendments added in 1945 -  includes similar language for the Hauser Homes subdivision in Milwaukee County. Language in the covenants states that restrictions outlined here "shall be in force and effect until the first day of January 1977." Nuevo trato
 <param ve-iframe src="https://liblamp.uwm.edu/IIIF/package/fromkin52-1499-p4.html">
 
 This 1929 covenant from the Armory Subdivision in Shorewood restricts any activity to persons of "the white race." These sorts of restrictions were legal in Wisconsin until 1948, when the Supreme Court struck down racially restrictive housing covenants as unenforceable.[^2] But more remained to be done to address unequal housing.
