@@ -12,7 +12,7 @@
 <param ve-entity eid="Q6662268"> <!-- Lloyd Barbee -->
 <param ve-entity eid="Q7918759"> <!-- Vel Phillips -->
 <param ve-entity eid="Q1453838"> <!-- redlining -->
-<param ve-entity eid="Q186356"> <!-- New Deal -->
+<param ve-entity eid="Q186356"> <!-- Nuevo trato -->
 
 
 This year's Morris Fromkin Memorial Lecture focuses on the racial geography of Milwaukee - and the role racial housing covenants have played in defining ongoing racial boundaries in our city. But it is also a story of resistance. According to speakers Anne Bonds and Derek Handley, "Our focus on efforts to challenge covenants explores the lived experiences of covenants and ways in which Black organizations and residents of Milwaukee County envisioned and articulated their claims for racial and spatial justice." 
